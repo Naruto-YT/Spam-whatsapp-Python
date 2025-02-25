@@ -1,4 +1,4 @@
-import pyautogui as pt
+import pyautogui as pt  #Pip install pyautogui  
 import time 
 
 limit =  input("cantidad de mensajes: ")
